@@ -1,6 +1,7 @@
 # Ophroad
 ----
 [Go]()
+
 Mountain bike store specializing in rides that can escape and evade an angry momma grizzly :bear: in the woods.
 
 # Wireframes and Planning
@@ -10,9 +11,13 @@ Mountain bike store specializing in rides that can escape and evade an angry mom
 # Screenshots
 ----
 ![Home page](images/bike-design.png)
+
 [News page](images/news-page.png)
+
 [Bike design](images/bike-design.png)
+
 [Footer](images/footer.png)
+
 ![Favicon]()
 
 # Technology Used
