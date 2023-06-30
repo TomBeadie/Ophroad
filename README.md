@@ -20,7 +20,7 @@ Mountain bike store specializing in rides that can escape and evade an angry mom
 
 ![Favicon]()
 
-# Technology Used
+# Technology
 ----
 <a href="a"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
