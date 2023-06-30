@@ -10,7 +10,7 @@ Mountain bike store specializing in rides that can escape and evade an angry mom
 
 # Screenshots
 ----
-![Home page](images/bike-design.png)
+![Home page](images/about-page.png)
 
 [News page](images/news-page.png)
 
