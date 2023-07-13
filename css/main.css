@@ -1,3 +1,24 @@
 body {
-  background-color: rgb(182, 182, 182);
+  font-family: "Montserrat";
+  background-color: FBFAF5;
+  height: 100vh;
+  width: 100vw;
+}
+
+nav {
+  text-decoration: none;
+  display: flex;
+  list-style: none;
+  width: 100vw;
+  background-color: red;
+}
+nav .nav-left {
+  display: flex;
+  padding: 25px;
+}
+nav .logo-wrapper {
+  display: flex;
+}
+nav .nav-right {
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
