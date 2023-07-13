@@ -17,7 +17,7 @@ body {
 
 }
 
-
+// Nav
 nav {
     text-decoration: none;
     display: flex;
@@ -36,7 +36,26 @@ nav {
     }
     .nav-right {
         display: flex;
+        padding: 25px; 
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
 
+    }
+}
+// Nav
+
+.hero-section {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+
+    .hero-img-wrapper {
+        
     }
 
 }
+
+
+
+

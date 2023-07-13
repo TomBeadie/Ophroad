@@ -21,4 +21,14 @@ nav .logo-wrapper {
 }
 nav .nav-right {
   display: flex;
+  padding: 25px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.hero-section {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
 }/*# sourceMappingURL=main.css.map */
